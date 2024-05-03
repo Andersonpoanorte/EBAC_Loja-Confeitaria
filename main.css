@@ -1,0 +1,99 @@
+.navbar {
+    background-color: #610423;
+}
+
+
+.navbar-brand {
+    font-family: 'champagne e limousines';
+    font-size: 2rem;
+    font-weight: bold;
+    color: #e5a4a2;
+}
+
+
+.section-title {
+    font-family: 'champagne e limousines';
+    font-weight: bold;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #e5a4a2;
+    color: #610423;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand:hover {
+    color: #e5a4a2;
+}
+
+.navbar-toggler-icon {
+    color: #e5a4a2;
+}
+
+.navbar-toggler  {
+    padding-top: 0.15rem;
+    padding-bottom: 0.15rem;
+    padding-left: 0.55rem;
+    padding-right: 0.55rem;
+    line-height: 1;
+    font-size: 1rem;
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+#sobre-confeitaria,
+#nosso-cardapio {
+    background-color: #eeb9b8;
+    color: #610423;
+}
+
+#eventos,
+#fale-conosco {
+    background-color: #ffeae6;
+}
+
+.text-colored {
+    color: #610423;
+}
+
+.nav-cardapio .nav-link.active {
+    background-color: #610423;
+    color: #e5a4a2;
+}
+
+.nav-cardapio .nav-link {
+    color: #610423;
+}
+
+#fale-conosco button {
+    background-color: #e5a4a2;
+    color: #610423;
+}
+
+.social-links li {
+    display: inline;
+    list-style: none;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+footer {
+    padding-top: 10px;
+    background-color: #610423;
+    color: #e5a4a2;
+    font-family: 'champagne e limousines';
+}
+
+footer p {
+    font-weight: 700;
+}
+
+.logo img {
+    margin-bottom: -30px;
+    width: 100px;
+}
+
